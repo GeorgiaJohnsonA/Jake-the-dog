@@ -1,0 +1,40 @@
+.page {
+    border: 2px solid;
+    padding: 20px;
+    margin: 166px;
+    Height: 1000px;
+    background-color: black;
+}
+
+.Insta {
+    display: flex;
+    justify-content: center;
+
+    color: white;
+}
+
+img {
+    height: 130px;
+}
+
+.navbar {
+    display: flex;
+    Justify-content: space-around;
+}
+
+.white {
+    color: white;
+}
+
+.posts {
+
+    display: flex;
+    Justify-content: space-around;
+
+}
+
+.Stuff {
+    width: 3px;
+    height: 17px;
+
+}
